@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is [Kyrylo Sovailo](https://translate.google.com/?sl=uk&tl=en&text=Кирило%20Совайло&op=translate) or simply Meta-chan. I love ponies, tea and C++.
-
-Curently I am studying Computational Engineering Science at [RWTH Aachen](https://www.rwth-aachen.de).
+My name is [Kyrylo Sovailo](https://translate.google.com/?sl=uk&tl=en&text=Кирило%20Совайло&op=translate). Curently I am studying Computational Engineering Science at [RWTH Aachen](https://www.rwth-aachen.de).
 
 In addition to my repositories, I developed several projects while working on [DSME](https://www.dsme.rwth-aachen.de/cms/~ibtrg/DSME/) as student assistant. These are [franka_o80](https://github.com/Data-Science-in-Mechanical-Engineering/franka_o80), [franka_timeout_handler](https://github.com/Data-Science-in-Mechanical-Engineering/franka_timeout_handler), [franka_emulator](https://github.com/Data-Science-in-Mechanical-Engineering/franka_emulator) and [franka_plotter](https://github.com/Data-Science-in-Mechanical-Engineering/franka_plotter).
 
